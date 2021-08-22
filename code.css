@@ -148,11 +148,12 @@ html, body {
 	color: white;
 }
 .bgr-blue1{
-	background: #1874cd;
+	background: #104e8b;
 	text-align:center;
 	color:white;
-	font-size:18px;
-	width: 70%;
+	font-size:40px;
+	width: 65%;
+	text-height:20px;
 	border-radius: 5%;
 }
 .bgr-oranige{
