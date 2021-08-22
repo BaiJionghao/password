@@ -151,8 +151,9 @@ html, body {
 	background: #1874cd;
 	text-align:center;
 	color:white;
+	
 	width: 80%;
-	border-radius: 20%;
+	border-radius: 5%;
 }
 .bgr-oranige{
 	background: #EB6E18;
