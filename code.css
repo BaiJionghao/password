@@ -147,6 +147,13 @@ html, body {
 	padding: 3px;
 	color: white;
 }
+.bgr-blue1{
+	background: #1874cd;
+	text-align:center;
+	color:white;
+	width: 80%;
+	border-radius: 20%;
+}
 .bgr-oranige{
 	background: #EB6E18;
 	font-size: 18px;
